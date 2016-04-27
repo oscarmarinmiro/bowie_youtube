@@ -1,0 +1,12 @@
+{
+  "name": "youtubeBowie",
+  "version": "1.0.0",
+  "author": "Rumba Cubana",
+  "dependencies": {
+    "jquery": "~1.7.1",
+    "d3": "~3.3.9",
+    "moment": "latest",
+    "excellentexport": "latest"
+  },
+  "devDependencies": {}
+}
